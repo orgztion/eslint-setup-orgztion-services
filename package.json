@@ -1,0 +1,32 @@
+{
+  "name": "eslint-setup-orgztion-services",
+  "version": "1.0.0",
+  "description": "Orgztion Services eslint setup",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orgztion/eslint-setup-orgztion-services.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "orgztion"
+  ],
+  "author": "Orgztion Services",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orgztion/eslint-setup-orgztion-services/issues"
+  },
+  "homepage": "https://github.com/orgztion/eslint-setup-orgztion-services#readme",
+  "dependencies": {
+    "babel-eslint": "6.x.x",
+    "eslint-config-orgztion-services": "git+https://github.com/orgztion/eslint-config-orgztion-services.git#master",
+    "eslint-config-standard": "*",
+    "eslint-config-standard-react": "*",
+    "eslint-plugin-promise": "*",
+    "eslint-plugin-react": "*",
+    "eslint-plugin-standard": "*"
+  }
+}
