@@ -22,7 +22,7 @@
   "homepage": "https://github.com/orgztion/eslint-setup-orgztion-services#readme",
   "dependencies": {
     "babel-eslint": "6.x.x",
-    "eslint-config-orgztion-services": "git+https://github.com/orgztion/eslint-config-orgztion-services.git#master",
+    "eslint-config-orgztion-services": "orgztion/eslint-config-orgztion-services",
     "eslint-config-standard": "*",
     "eslint-config-standard-react": "*",
     "eslint-plugin-promise": "*",
